@@ -1,2 +1,3 @@
 # Pratham1
-My first githib project 
+My first github project 
+author:Pratham
